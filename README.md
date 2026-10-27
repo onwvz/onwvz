@@ -1,16 +1,37 @@
-## Hi there 👋
+# 🌿 develop
 
-<!--
-**onwvz/onwvz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Ветка активной разработки.
 
-Here are some ideas to get you started:
+## 🛠 Стек
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**🎨 Frontend**
+- ⚛️ React / Next.js / Vue / Svelte
+- 🟦 TypeScript, Tailwind CSS
+- ⚡ Vite / Webpack
+
+**⚙️ Backend**
+- 🟩 Node.js (Express / NestJS / Fastify)
+- 🐍 Python (FastAPI / Django / Flask)
+- 🐹 Go (Gin / Fiber)
+- ☕ Java (Spring Boot)
+- 🐘 PHP (Laravel / Symfony)
+
+**📱 Mobile**
+- 📲 React Native / Flutter / Swift / Kotlin
+
+**🗄 Базы данных**
+- 🐘 PostgreSQL / MySQL
+- 🍃 MongoDB
+- ⚡ Redis
+- 📊 ClickHouse
+
+**☁️ Инфра и DevOps**
+- 🐳 Docker / Kubernetes
+- 🔁 GitHub Actions / GitLab CI / Jenkins
+- 🌐 Nginx / Traefik
+- ☁️ AWS / GCP / Yandex Cloud / VPS
+
+**🧰 Инструменты**
+- 🔧 Git, ESLint, Prettier, Ruff, Black
+- 🧪 Jest / Vitest / Pytest / Go test
+- 🗂 Prisma / TypeORM / SQLAlchemy / GORM
